@@ -65,6 +65,6 @@ The table below compares the calculated phase fraction (e.g., Pearlite percentag
 | Image 3 | 21.80 | 18.80 |
 | Image 4 | 23.57 | 19.20 |
 
-
-![(Alt Text)]()
+## Developed Software for Automated Phase Fraction Detection
+![(Alt Text)](images/image.png)
 
