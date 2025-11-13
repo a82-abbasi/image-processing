@@ -53,7 +53,11 @@ The developed tool has broad applications across industry and research:
 * **Heat Treatment Optimization:** Assisting in the fine-tuning of thermal processes based on resulting phase fractions.
 
 ---
+## 💾 Dataset
 
+**Note:** The complete image dataset is proprietary and cannot be shared due to company copyright and confidentiality agreements.
+
+---
 ## 📊 Results and Performance Comparison
 
 The table below compares the calculated phase fraction (e.g., Pearlite percentage) achieved by the proposed U-Net Model against results obtained from a standard reference tool (Metal Software) for various images.
